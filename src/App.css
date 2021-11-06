@@ -10,3 +10,65 @@ body {
   margin: 0;
   font-family: 'Charm', cursive;
 }
+
+button {
+  border: 1px solid #03989e;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 130px;
+} 
+
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 22px;
+  text-shadow: 5px 5px 10px #aab2bd;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+}
+
+
+.navbar li, .socialbar li {
+  display: inline-block;
+  padding: 0 20px;
+  font-size: 26px;
+}
+
+.myworkcards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.mywordcard {
+  width: 320px;
+  border: 3px solid #03989e;
+  border-radius: 10px;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 5px 5px 10px #aab2bd;
+}
+
+.myworkimg {
+  width: 320px;
+  height: 150px;
+  border-radius: 10px;
+}
+
+#footer {
+  text-align: center;
+}
+
