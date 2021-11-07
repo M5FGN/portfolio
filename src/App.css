@@ -68,6 +68,32 @@ h2 {
   border-radius: 10px;
 }
 
+.myblogcards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: stretch;
+}
+
+.myblogcard {
+  width: 320px;
+  border: 3px solid #967adc;
+  border-radius: 10px;
+  list-style-type: none;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 5px 5px 10px #aab2bd;
+}
+
+.myblogimg {
+  width: 320px;
+  height: 150px;
+  border-radius: 10px;
+}
+
 #footer {
   text-align: center;
 }
