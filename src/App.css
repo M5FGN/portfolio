@@ -34,7 +34,7 @@ body {
 }
 
 
-.socialbar li {
+/* .socialbar li { */
 
 button {
   border: 1px solid #03989e;
@@ -92,6 +92,7 @@ h2 {
   border-radius: 15px;
   padding: 20px;
   margin-top: 20px;
+}
 
 .myworkcards {
   display: flex;
