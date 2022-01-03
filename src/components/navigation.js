@@ -1,9 +1,17 @@
-import React from 'react';          
+import React from 'react';
 
-function Navigation() {              
-  
-  return (                    
-     <h1>Navigation</h1>     
-  );                          
-}                           
-export default Navigation;  
+function Navigation() {
+
+    return ( 
+    <div class='navbar'>
+        <ul>
+            <li>My Work</li>
+            <li>Blog</li>
+            <li>Contact Me</li>
+            <li>About Me</li>
+        </ul> 
+   </div>                   
+
+    );
+}
+export default Navigation;

@@ -1,19 +1,19 @@
-import React from 'react'; 
-import MyWordCard1 from './myworkcard1';   
-import MyWordCard2 from './myworkcard2';   
-import MyWordCard3 from './myworkcard3';   
+
+import React from 'react';  
+import MyWorkCard1 from './myworkcard1';            
+import MyWorkCard2 from './myworkcard2'; 
+import MyWorkCard3 from './myworkcard3'; 
 
 function MyWork() {              
   
-  return ( 
-  <div>
-    <h2>My Work</h2>
-    <div class='myworkcards'>                 
-        <MyWordCard1/>
-        <MyWordCard2/>
-        <MyWordCard3/>
+  return (   
+    <div>                
+     <h1>My Work</h1>   
+     <MyWorkCard1/>  
+     <MyWorkCard2/>  
+     <MyWorkCard3/>  
      </div> 
-     </div>    
+
   );                          
 }                           
 export default MyWork;  
