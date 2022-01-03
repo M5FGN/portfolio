@@ -3,6 +3,7 @@ import React from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";   
 // import keyboard_teal from '../assets/keyboard_teal.jpg'       
 
+
 function MyWorkCard2() {              
   
   return ( 

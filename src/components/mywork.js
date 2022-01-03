@@ -1,3 +1,4 @@
+
 import React from 'react';  
 import MyWorkCard1 from './myworkcard1';            
 import MyWorkCard2 from './myworkcard2'; 
@@ -12,6 +13,7 @@ function MyWork() {
      <MyWorkCard2/>  
      <MyWorkCard3/>  
      </div> 
+
   );                          
 }                           
 export default MyWork;  
