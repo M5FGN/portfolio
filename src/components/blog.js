@@ -8,7 +8,7 @@ function Blog() {
   return (   
     <div>
      <h2>Blog</h2>
-     <div class='cards'>  
+     <div className='cards'>  
         <BlogPost1/>
         <BlogPost2/>
         <BlogPost3/>

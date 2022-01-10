@@ -8,14 +8,14 @@ import keyboard_teal from '../assets/keyboard_teal.jpg'
 function MyWorkCard3() {              
   
   return ( 
-    <div class='mywordcard card'>                 
+    <div className='mywordcard card'>                 
 
-        <img class='mycardimg' src={keyboard_teal} alt="Keyboard" /> 
+        <img className='mycardimg' src={keyboard_teal} alt="Keyboard" /> 
         <h3>Fearured 3</h3>
 
         <p>Description</p>
-        <button class='myworkbtn'><span class='fa'><FontAwesomeIcon icon={['fas', 'laptop']} /></span>Live</button>
-        <button class='myworkbtn'><span class='fa'><FontAwesomeIcon icon={['fas', 'laptop-code']} /></span>Code</button>
+        <button className='myworkbtn'><span className='fa'><FontAwesomeIcon icon={['fas', 'laptop']} /></span>Live</button>
+        <button className='myworkbtn'><span className='fa'><FontAwesomeIcon icon={['fas', 'laptop-code']} /></span>Code</button>
         <h4>Tech Used:</h4>
         {/* TODO Add Tech Used */}
     </div>     

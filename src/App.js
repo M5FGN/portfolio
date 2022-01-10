@@ -17,7 +17,7 @@ library.add(fab, far, fas )
 function App() {              
   
   return (                    
-    <div class='pagecontainer'>
+    <div className='pagecontainer'>
       <Header/> 
       <MyWork/>
       <Blog/>

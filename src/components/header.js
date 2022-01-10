@@ -5,13 +5,13 @@ import Socials from './socials';
 function Header() {              
   
   return ( 
-      <div class='header'>  
+      <div className='header'>  
       <div>             
           <h1>Logo</h1> 
       </div>    
       <div>
         <Navigation/>  
-        <hr class='separator'></hr>
+        <hr className='separator'></hr>
         <Socials/>
      </div>
      </div>  

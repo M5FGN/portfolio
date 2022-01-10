@@ -9,7 +9,7 @@ function MyWork() {
   return (   
     <div>                
       <h2>My Work</h2>   
-      <div class="cards">
+      <div className="cards">
         <MyWorkCard1/>  
         <MyWorkCard2/>  
         <MyWorkCard3/> 
