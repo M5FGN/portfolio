@@ -8,10 +8,12 @@ function MyWork() {
   
   return (   
     <div>                
-     <h1>My Work</h1>   
-     <MyWorkCard1/>  
-     <MyWorkCard2/>  
-     <MyWorkCard3/>  
+      <h2>My Work</h2>   
+      <div class="cards">
+        <MyWorkCard1/>  
+        <MyWorkCard2/>  
+        <MyWorkCard3/> 
+      </div> 
      </div> 
 
   );                          

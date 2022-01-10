@@ -1,14 +1,14 @@
 import React from 'react';
-// import './../App.css';  
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";   
-// import keyboard_teal from '../assets/keyboard_teal.jpg'       
+import keyboard_teal from '../assets/keyboard_teal.jpg'       
 
 
 function MyWorkCard2() {              
   
   return ( 
-    <div class='mywordcard'>                 
-        {/* <img class='myworkimg' src={keyboard_teal} alt="Keyboard" />  */}
+    <div class='mywordcard card'>                 
+        <img class='mycardimg' src={keyboard_teal} alt="Keyboard" /> 
         <h3>Fearured 2</h3>
         <p>Description</p>
         <button class='myworkbtn'><span class='fa'><FontAwesomeIcon icon={['fas', 'laptop']} /></span>Live</button>
