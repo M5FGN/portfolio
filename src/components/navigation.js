@@ -6,8 +6,8 @@ function Navigation() {
     <div className='navbar'>
         <ul>
             <li>My Work</li>
-            <li>Blog</li>
             <li>Contact Me</li>
+            <li>Blog</li>
             <li>About Me</li>
         </ul> 
    </div>                   

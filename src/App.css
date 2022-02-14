@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
@@ -12,8 +11,8 @@
 body {
   margin: 0;
   font-family: 'Charm', cursive;
-  background: rgb(3, 152, 158);
-  background: linear-gradient(90deg, rgba(3, 152, 158, 1) -24%, rgba(150, 122, 220, 1) 73%);
+  background: linear-gradient(90deg, rgb(193, 246, 248) -24%, rgb(211, 199, 241) 73%);
+  /* background: linear-gradient(90deg, rgba(3, 152, 158, 1) -24%, rgba(150, 122, 220, 1) 73%); */
 }
 
 h2 {
@@ -25,32 +24,29 @@ h2 {
 
 .pagecontainer {
   background-color: white;
-  margin: 40px;
-  border-radius: 10px;
-  padding: 20px 100px;
+  margin: 30px;
+  padding: 20px 80px;
 }
 
-.header {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 100%;
-}
 
-.separator {
-  border: none;
-  border-top: 3px solid #03989e;
-  width: 95%;
-}
-
-.navbar li,
-.socialbar li {
+.navbar li {
   display: inline-block;
   padding: 0 20px;
-  font-size: 26px;
+  font-size: 22px;
 }
 
-.socialbar ul li a {
+.navbar {
+  text-align: right;
+}
+
+.mySkills{
+  text-align: center;
+}
+
+.shields {
+  margin: 5px;
+}
+/* .socialbar ul li a {
   font-size: 30px;
   padding-left: 10px;
   padding-right: 10px;
@@ -59,7 +55,7 @@ h2 {
 
 .socialbar ul li a:visited {
   color: #967adc;
-}
+} */
 
 button {
   border: 1px solid #03989e;
@@ -106,6 +102,10 @@ button {
   border-radius: 10px;
 }
 
+hr {
+  margin: 20px;
+}
+ 
 #footer {
   text-align: center;
 }

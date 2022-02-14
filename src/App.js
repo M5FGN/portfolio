@@ -1,6 +1,8 @@
 import React from 'react';    
 import './App.css';  
-import Header from './components/header';  
+import Header from './components/header'; 
+import Hero from './components/hero'; 
+import MySkills from './components/myskills'; 
 import MyWork from './components/mywork';       
 import Blog from './components/blog';
 import Contact from './components/contact';
@@ -19,6 +21,8 @@ function App() {
   return (                    
     <div className='pagecontainer'>
       <Header/> 
+      <Hero/>
+      <MySkills/>
       <MyWork/>
       <Blog/>
       <Contact/>

@@ -9,7 +9,7 @@ function Footer() {
   
   return ( 
     <div id='footer'>
-      <h1>Footer</h1>
+      <hr/>
       <p>Copyright: Mary Fagan 	&copy; {getCopyrightYear()}</p>
     </div>                   
         
