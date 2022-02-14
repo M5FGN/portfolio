@@ -17,7 +17,7 @@ function MySkills() {
          <img className='shields' src='https://img.shields.io/badge/-VS%20Code-5c0f84?style=for-the-badge&logo=visual-studio-code&logoColor=white' alt="Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-PostgreSQL-5c0f84?style=for-the-badge&logo=PostgreSQL&logoColor=white' alt="Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-Flask-5c0f84?style=for-the-badge&logo=Flask&logoColor=white' alt="Logo"/> 
-         <img className='shields' src='https://img.shields.io/badge/-Java-5c0f84?style=for-the-badge&logo=Java&logoColor=white' alt="Logo"/> 
+         <img className='shields' src='https://img.shields.io/badge/-Java-5c0f84?style=for-the-badge&logo=Java&logoColor=white' alt="Logo"/> <br/>
          <img className='shields' src='https://img.shields.io/badge/-Express.js-5c0f84?style=for-the-badge&logo=Express.js&logoColor=white' alt="Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-React-5c0f84?style=for-the-badge&logo=React&logoColor=white' alt="Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-Spring-5c0f84?style=for-the-badge&logo=Spring&logoColor=white' alt="Logo"/> 
