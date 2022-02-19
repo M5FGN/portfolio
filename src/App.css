@@ -65,15 +65,17 @@ h2 {
 .navbar li {
   display: inline-block;
   padding: 0 20px;
-  font-size: 22px;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 .navbar li:hover {
+  color: rgba(150, 122, 220, 1) ;
   text-shadow: 5px 0px 30px  rgba(150, 122, 220, 1);
 }
 
 .navbar {
-  text-align: center;
+  text-align: right;
 }         
 
 .mySkills{
@@ -97,6 +99,7 @@ h2 {
   padding-left: 10px;
   padding-right: 10px;
   color: #967adc;
+  margin: 20px;
 }
 
 .contact ul li a:visited {
@@ -139,6 +142,12 @@ button {
   border: 3px solid #03989e;
 }
 
+.work_more {
+  font-size: 20px;
+  text-align: center;
+  padding-top: 40px;
+}
+
 .myblogcard {
   border: 3px solid #967adc;
 }
@@ -158,23 +167,24 @@ hr {
 }
 
 /* My Work Section */
-.myWork {
+.work_icons {
   text-align: center;
 }
 
-.myWork li {
+.work_icons li {
   display: inline-block;
 }
 
-.myWork ul li a {
-  font-size: 30px;
+.work_icons ul li a {
+  font-size: 50px;
   padding-left: 10px;
   padding-right: 10px;
   color: #967adc;
   padding-inline-start: 0px !important;
+  margin: 20px;
 }
 
-.myWork ul li a:visited {
+.work_icons ul li a:visited {
   color: #967adc;
 } 
 
