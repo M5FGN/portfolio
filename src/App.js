@@ -19,7 +19,7 @@ library.add(fab, far, fas )
 function App() {              
   
   return (                    
-    <div className='pagecontainer'>
+    <div className='page_container'>
       <Header/> 
       <Hero/>
       <MySkills/>

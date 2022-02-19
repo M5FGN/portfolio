@@ -27,15 +27,40 @@ h2 {
   text-shadow: 5px 5px 10px #aab2bd;
 }
 
-.pagecontainer {
+.page_container {
   background-color: white;
   margin: 30px;
   padding: 20px 80px;
 }
 
 .hero {
-  font-size: 40px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 50px;
 }
+
+.hero-left {
+  width: 700px;
+}
+
+.hero_header {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 50px;
+  text-shadow: 5px 5px 10px #aab2bd;
+}
+
+.hero_text {
+  font-size: 20px;
+  text-align: center;
+}
+
+.hero_img {
+  width: 300px;
+}
+
 
 .navbar li {
   display: inline-block;
@@ -43,9 +68,13 @@ h2 {
   font-size: 22px;
 }
 
-.navbar {
-  text-align: right;
+.navbar li:hover {
+  text-shadow: 5px 0px 30px  rgba(150, 122, 220, 1);
 }
+
+.navbar {
+  text-align: center;
+}         
 
 .mySkills{
   text-align: center;
