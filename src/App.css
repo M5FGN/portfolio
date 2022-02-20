@@ -193,3 +193,14 @@ hr {
 } 
 
 /* End My Work Section */
+
+
+.about {
+  width: 80%;
+  margin: auto;
+}
+
+.about_text {
+  text-align: center;
+  line-height: 200%;
+}
