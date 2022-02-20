@@ -8,7 +8,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function MyWork() {              
   
   return (   
-    <div>                
+    <div> 
+      <a name="mywork"></a>               
       <h2>My Work</h2>   
       <div className="cards">
         <MyWorkCard1/>  

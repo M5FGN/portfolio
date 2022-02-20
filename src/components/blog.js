@@ -7,6 +7,7 @@ function Blog() {
   
   return (   
     <div>
+      <a className="link" name="blog"></a> 
      <h2>Blog</h2>
      <div className='cards'>  
         <BlogPost1/>

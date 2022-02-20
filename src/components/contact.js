@@ -6,6 +6,7 @@ function Contact() {
   return (                    
      
      <div className="contact">
+    <a className="link" name="contact"></a> 
      <h2>Contact</h2> 
      
      <ul>

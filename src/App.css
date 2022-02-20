@@ -1,6 +1,3 @@
-.App {
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 
@@ -69,10 +66,17 @@ h2 {
   font-weight: bold;
 }
 
-.navbar li:hover {
+.link {
+  text-decoration: none;
+  color: black ;
+}
+
+.link:hover {
   color: rgba(150, 122, 220, 1) ;
   text-shadow: 5px 0px 30px  rgba(150, 122, 220, 1);
 }
+
+
 
 .navbar {
   text-align: right;

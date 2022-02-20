@@ -5,10 +5,10 @@ function Navigation() {
     return ( 
     <div className='navbar'>
         <ul>
-            <li>My Work</li>
-            <li>Contact Me</li>
-            <li>Blog</li>
-            <li>About Me</li>
+            <li><a className="link" href="#mywork">My Work</a></li>
+            <li><a className="link" href="#blog">Blog</a></li>
+            <li><a className="link" href="#contact">Contact Me</a></li>
+            <li><a className="link" href="#about">About Me</a></li>
         </ul> 
    </div>                   
 
