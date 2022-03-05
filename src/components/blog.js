@@ -3,7 +3,9 @@ import BlogPost1 from './blogpost1';
 import BlogPost2 from './blogpost2';  
 import BlogPost3 from './blogpost3';         
 
-function Blog() {              
+function Blog() {  
+  
+
   
   return (   
     <div>

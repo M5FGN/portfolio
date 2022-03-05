@@ -204,3 +204,20 @@ hr {
   text-align: center;
   line-height: 200%;
 }
+
+.myblogcard_button {
+  border: 1px solid #967adc;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  padding: 10px;
+  width: 130px;
+}
+
+.taglist {
+  color: #967adc;
+  padding-bottom: 20px;
+}
+
+.blogtitle{
+  color: #967adc;
+}
