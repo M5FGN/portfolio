@@ -18,12 +18,12 @@ function MyWork() {
         </div>
         
         <div className="work_icons">
-        <ul>
+
         
         <h3 className="work_more">See more of my work ...</h3>
-     <li><a href="https://github.com/M5FGN"><FontAwesomeIcon icon={['fab', 'github']} /></a></li>
-     <li><a href="https://codepen.io/m5fgn"><FontAwesomeIcon icon={['fab', 'codepen']} /></a></li>
- </ul> 
+         <a href="https://codepen.io/m5fgn" target="_blank"><img className='shields' src='https://img.shields.io/badge/codepen-5c0f84?style=for-the-badge&logo=codepen&logoColor=white' alt="Logo"/></a>
+         <a href="https://github.com/M5FGN" target="_blank"><img className='shields' src='https://img.shields.io/badge/github-5c0f84?style=for-the-badge&logo=github&logoColor=white' alt="Logo"/></a>
+
  </div>
         
   

@@ -9,7 +9,7 @@ function MyWorkCard1() {
     <div className='mywordcard card'>                 
         <img className='mycardimg' src={keyboard_teal} alt="Keyboard" /> 
 
-        <h3>Fearured 1</h3>
+        <h3>Featured 1</h3>
         <p>Description</p>
         <button className='myworkbtn'><span className='fa'><FontAwesomeIcon icon={['fas', 'laptop']} /></span>Live</button>
         <button className='myworkbtn'><span className='fa'><FontAwesomeIcon icon={['fas', 'laptop-code']} /></span>Code</button>
