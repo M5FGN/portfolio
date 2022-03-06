@@ -2,7 +2,7 @@
   "name": "mf_portfolio",
   "homepage": "http://www.m5fgn.co.uk",
   "version": "1.0.0",
-  "description": "my react application",
+  "description": "portfolio application",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
