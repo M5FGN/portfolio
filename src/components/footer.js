@@ -1,4 +1,5 @@
-import React from 'react';            
+import React from 'react';      
+import heart from '../assets/heart.png'
 
 function getCopyrightYear() {
   let currentDate = new Date();
@@ -10,7 +11,7 @@ function Footer() {
   return ( 
     <div id='footer'>
       <hr/>
-      <p>Copyright: Mary Fagan 	&copy; {getCopyrightYear()}</p>
+      <p><img className="heart" src={heart} alt="heart" /> <span className="footertext">Copyright: Mary Fagan 	&copy; {getCopyrightYear()}</span> <img className="heart" src={heart} alt="heart" /></p> 
     </div>                   
         
   );                          
