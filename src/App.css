@@ -5,6 +5,10 @@ ul {
   padding-inline-start: 0px !important;
 }
 
+a {
+  text-decoration: none;
+}
+
 .fa {
   padding: 10px;
   font-size: 20px;
@@ -29,6 +33,15 @@ h2 {
   margin: 30px;
   padding: 20px 80px;
 }
+
+/* Added to hide text on Jump To sections - this allows text to be added that can be used by screen readers but is not visible on screen */
+.jump_to span {
+  height: 1px;
+  width: 1px;
+  position: absolute;
+  overflow: hidden;
+  top: -10px;
+ }
 
 .hero {
   display: flex;
@@ -56,6 +69,7 @@ h2 {
 
 .hero_img {
   width: 300px;
+  height: 300px;
 }
 
 
@@ -88,6 +102,8 @@ h2 {
 
 .shields {
   margin: 5px;
+  height: 35px;
+  max-width: 200px;
 }
 
 .contact {
@@ -210,6 +226,7 @@ hr {
   background-color: #f5f5f5;
   border-radius: 5px;
   padding: 10px;
+  padding-right: 20px;
   width: 130px;
 }
 

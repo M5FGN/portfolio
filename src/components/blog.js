@@ -9,7 +9,7 @@ function Blog() {
   
   return (   
     <div>
-      <a className="link" name="blog"></a> 
+      <a className="jump_to" name="blog"><span>Arrived at the My Blog Section</span></a>               
      <h2>Blog</h2>
      <div className='cards'>  
         <BlogPost1/>
