@@ -1,0 +1,95 @@
+{
+    "better-comments.tags": [
+
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "question",
+            "color": "#ffffff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#007fff",
+            "bold": false,
+            "italic": false
+        },
+        // {
+        //     "tag": "//",
+        //     "color": "#474747",
+        //     "strikethrough": true,
+        //     "underline": false,
+        //     "backgroundColor": "transparent",
+        //     "bold": false,
+        //     "italic": false
+        // },
+        {
+            "tag": "todo",
+            "color": "#ffffff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#004d4d",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "content",
+            "color": "#ffffff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#ff77ff",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "fixme",
+            "color": "#ffffff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#26abff",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "note",
+            "color": "#ffffff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "#8a2be2",
+            "bold": false,
+            "italic": false
+        },
+        // {
+        //     "tag": "bug",
+        //     "color": "#ffffff",
+        //     "strikethrough": false,
+        //     "underline": false,
+        //     "backgroundColor": "#ff0000",
+        //     "bold": false,
+        //     "italic": false
+        // },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "Document",
+            "color": "#DD22FF",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ]
+}
