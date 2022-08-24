@@ -20,8 +20,8 @@ function MyWork() {
 
         
         <h3 className="work_more">See more of my work ...</h3>
-         <a href="https://codepen.io/m5fgn" target="_blank" rel="noreferrer"><img className='shields' src='https://img.shields.io/badge/codepen-5c0f84?style=for-the-badge&logo=codepen&logoColor=white' alt="Logo"/></a>
-         <a href="https://github.com/M5FGN" target="_blank" rel="noreferrer"><img className='shields' src='https://img.shields.io/badge/github-5c0f84?style=for-the-badge&logo=github&logoColor=white' alt="Logo"/></a>
+         <a href="https://codepen.io/m5fgn" target="_blank" rel="noreferrer"><img className='shields' src='https://img.shields.io/badge/codepen-5c0f84?style=for-the-badge&logo=codepen&logoColor=white' alt="CodePen Logo"/></a>
+         <a href="https://github.com/M5FGN" target="_blank" rel="noreferrer"><img className='shields' src='https://img.shields.io/badge/github-5c0f84?style=for-the-badge&logo=github&logoColor=white' alt="GitHub Logo"/></a>
 
  </div>
         

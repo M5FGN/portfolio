@@ -19,7 +19,8 @@ library.add(fab, far, fas )
 function App() {              
   
   return (                    
-    <div className='page_container'>
+    <main>
+      <div className='page_container'>
       <Header/> 
       <Hero/>
       <MySkills/>
@@ -28,7 +29,8 @@ function App() {
       <Contact/>
       <About/>
       <Footer/>
-    </div>    
+      </div>
+    </main>    
   );                          
 }                           
 export default App;  
