@@ -21,6 +21,12 @@ The purpose of this portfolio is to show my skills through the projects which I 
 
 ## Instructions to View the App
 
+## View Live
+
+1. Visit the site at [www.m5fgn.co.uk](http://www.m5fgn.co.uk)
+
+## View From Code
+
 1. Pull the Repo from GitHub
 2. In the terminal access the root folder.
 3. Install the npm packages.
