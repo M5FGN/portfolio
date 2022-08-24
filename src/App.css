@@ -31,7 +31,7 @@ h2 {
 .page_container {
   background-color: #ffffff;
   margin: 30px;
-  padding: 20px 80px;
+  padding: 20px 20px;
 }
 
 /* Added to hide text on Jump To sections - this allows text to be added that can be used by screen readers but is not visible on screen */
@@ -72,7 +72,6 @@ h2 {
   height: 300px;
 }
 
-
 .navbar li {
   display: inline-block;
   padding: 0 20px;
@@ -89,8 +88,6 @@ h2 {
   color: #6b41d8 ;
   text-shadow: 5px 0px 30px  #6b41d8;
 }
-
-
 
 .navbar {
   text-align: right;
@@ -147,7 +144,7 @@ button {
 }
 
 .card {
-  width: 320px;
+  width: 300px;
   border-radius: 10px;
   list-style-type: none;
   padding: 10px;
@@ -173,7 +170,7 @@ button {
 }
 
 .mycardimg {
-  width: 320px;
+  width: 300px;
   height: 150px;
   border-radius: 10px;
 }
@@ -184,6 +181,10 @@ hr {
  
 #footer {
   text-align: center;
+}
+
+#footer>p {
+  
 }
 
 /* My Work Section */
@@ -209,7 +210,6 @@ hr {
 } 
 
 /* End My Work Section */
-
 
 .about {
   width: 80%;

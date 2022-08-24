@@ -11,7 +11,7 @@ function Footer() {
   return ( 
     <div id='footer'>
       <hr/>
-      <p><img className="heart" src={heart} alt="heart" /> <span className="footertext">Copyright: Mary Fagan 	&copy; {getCopyrightYear()}</span> <img className="heart" src={heart} alt="heart" /></p> 
+      <p><img className="heart" src={heart} alt="heart" /><span>Mary Fagan 	&copy; {getCopyrightYear()}</span><img className="heart" src={heart} alt="heart" /></p>
     </div>                   
         
   );                          
