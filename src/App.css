@@ -242,3 +242,7 @@ hr {
 .heart {
   margin: 0 20px -2px;
 }
+
+.center {
+  text-align: center;
+}
