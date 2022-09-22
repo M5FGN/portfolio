@@ -1,6 +1,7 @@
 # Personal Portfolio
 
 ## Purpose
+
 The purpose of this portfolio is to show my skills through the projects which I will showcased here.
 
 ---
@@ -8,23 +9,25 @@ The purpose of this portfolio is to show my skills through the projects which I 
 ## Technologies Used
 
 ### App Development
-* React.js
-* Node.js 
 
-## Testing (To be added)
-* Cypress 
+* React.js
+* Node.js
+
+### Testing (To be added)
+
+* Cypress
 
 ---
 
-# Instructions to View the App
+## Instructions to View the App
 
 1. Pull the Repo from GitHub
 2. In the terminal access the root folder.
-3. Install the npm packages. 
+3. Install the npm packages.
 
 ### `npm install`
 
-9. To run the server on  [http://localhost:3000](http://localhost:3000) 
+4. To run the server on  [http://localhost:3000](http://localhost:3000)
 
 ### `npm start`
 
@@ -38,5 +41,6 @@ The purpose of this portfolio is to show my skills through the projects which I 
 
 ---
 
-# Screenshots
+## Screenshots
+
 (To be added)
