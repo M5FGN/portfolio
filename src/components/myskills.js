@@ -10,7 +10,9 @@ function MySkills() {
 
          <img className='shields' src='https://img.shields.io/badge/-HTML-5c0f84?style=for-the-badge&logo=html5&logoColor=white' alt="HTML Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-CSS-5c0f84?style=for-the-badge&logo=CSS3&logoColor=white' alt="CSS Logo"/> 
-         <img className='shields' src='https://img.shields.io/badge/-JavaScript-5c0f84?style=for-the-badge&logo=JavaScript&logoColor=white' alt="JavaScript Logo"/> 
+         <img className='shields' src='https://img.shields.io/badge/-JavaScript-5c0f84?style=for-the-badge&logo=JavaScript&logoColor=white' alt="JavaScript Logo"/>
+         <img className='shields' src='https://img.shields.io/badge/-JQuery-5c0f84?style=for-the-badge&logo=JQuery&logoColor=white' alt="JQuery"/> 
+         <img className='shields' src='https://img.shields.io/badge/-PHP-5c0f84?style=for-the-badge&logo=PHP&logoColor=white' alt="PHP"/> 
          <img className='shields' src='https://img.shields.io/badge/-React-5c0f84?style=for-the-badge&logo=React&logoColor=white' alt="React Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-Node.js-5c0f84?style=for-the-badge&logo=nodedotjs&logoColor=white' alt="Node.js Logo"/> 
          <img className='shields' src='https://img.shields.io/badge/-Express.js-5c0f84?style=for-the-badge&logo=Express.js&logoColor=white' alt="Express.js Logo"/> <br/>
